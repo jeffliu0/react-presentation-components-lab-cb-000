@@ -1,1 +1,8 @@
 // Code SimpleComponentHere Here
+import React from 'react'
+
+export default class SimpleComponent extends React.Component{
+  constructor(props){
+    super(props)
+  }
+}
